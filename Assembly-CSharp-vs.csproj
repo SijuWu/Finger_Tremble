@@ -45,6 +45,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\LeapController.cs" />
+     <Compile Include="Assets\LeapFinger.cs" />
+     <Compile Include="Assets\LeapHand.cs" />
+     <Compile Include="Assets\LeapObject.cs" />
+     <Compile Include="Assets\OneEuroFilter.cs" />
+     <Compile Include="Assets\Stroke.cs" />
      <Compile Include="Assets\mouseControl.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
